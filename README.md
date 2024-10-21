@@ -10,7 +10,8 @@ for this perpous I fine tuned YOLOv8 model and used it to detect the coffee bean
 #### Original Image:
 ![Original Image](Sample/image_1.bmp)
 
+### Bounding Boxes
 ![alt text](Sample/after_yolo.bmp)
 
-#### Imgae after applying the code:
+#### Images after applying the code:
 ![Original Image](Sample/stacked_images.png)
