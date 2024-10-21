@@ -1,5 +1,5 @@
 
-# White Circles Removal
+# Crop using YOLOv8
 
 I had a task which was to train a AI model to classify different types of coffee beans, but my dataset included images contaning multiple coffee beans, which was not suitable for training a classification model.
 
